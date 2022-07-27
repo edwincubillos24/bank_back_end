@@ -35,6 +35,7 @@ CORS_ALLOW_ALL_ORIGIN = True
     "https://sub.example.com",
     "http://localhost:8080",
     "http://127.0.0.1:9000",
+    
 ]"""
 
 # Application definition
